@@ -1,0 +1,35 @@
+{
+  "id": "/",
+  "name": "Knowledge Repository",
+  "short_name": "Knowledge",
+  "description": "Quran, Hadith, Q&A, Media | குர்ஆன், ஹதீஸ், கேள்வி பதில்",
+  "lang": "ta",
+  "dir": "auto",
+  "start_url": "https://digitalknowledgerepository.blogspot.com/?m=1",
+  "scope": "https://digitalknowledgerepository.blogspot.com/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fbf2de",
+  "theme_color": "#f6f1e6",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/haris24de-afk/KFGQPC-Uthman-Taha-Naskh-@main/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/haris24de-afk/KFGQPC-Uthman-Taha-Naskh-@main/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/haris24de-afk/KFGQPC-Uthman-Taha-Naskh-@main/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
